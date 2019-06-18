@@ -1795,7 +1795,7 @@ input, select, textarea {
 			}
 
 			.box.feature h2 {
-				font-size: 1.35em;
+				font-size: 2em;
 			}
 
 			.box.feature p {
@@ -2142,7 +2142,7 @@ input, select, textarea {
 		/* Basic */
 
 			body, input, select, textarea {
-				font-size: 12pt;
+				font-size: 14pt;
 			}
 
 	}
@@ -2154,7 +2154,7 @@ input, select, textarea {
 		/* Basic */
 
 			body, input, select, textarea {
-				font-size: 11pt;
+				font-size: 12pt;
 			}
 
 	}
@@ -2174,7 +2174,7 @@ input, select, textarea {
 			}
 
 			body, input, select, textarea {
-				font-size: 11pt;
+				font-size: 12pt;
 			}
 
 		/* Section/Article */
