@@ -1,4 +1,4 @@
-# IEEE@SUTD
+<p align="center"><a href ="https://sutd-ieee.github.io/"><img src="https://raw.githubusercontent.com/SUTD-IEEE/SUTD-IEEE.github.io/master/images/IEEE_at_SUTD.png" alt="IEEE@SUTD logo"/></a></p>
 
 The official home page of IEEE SUTD Student Branch, built using HTML5 Up's [Verti](https://html5up.net/verti).
 
