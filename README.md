@@ -23,7 +23,7 @@ The shift from Facebook Pages to GitHub Pages is due to 2 factors, namely:
                                     
 <p align="center"><a href ="https://www.ieee.org/"><img src="https://raw.githubusercontent.com/SUTD-IEEE/SUTD-IEEE.github.io/master/images/ieee_tag_blue.jpg" alt="IEEE logo" height=169px/></a></p>
 
-<p>IEEE is the world’s largest technical professional organization dedicated to advancing technology for the benefit of humanity. Founded in 1884 with Alexander Graham Bell and Thomas Edison among its charter members, IEEE today serves over 400,000 members worldwide. Not only is IEEE the world’s largest technical and professional society, it also publishes a significant amount of the electrical engineering and computer-science literature in the world.</p>
+<p>IEEE is the world’s largest technical professional organization dedicated to advancing technology for the benefit of humanity. Founded in 1884 with Alexander Graham Bell and Thomas Edison among its charter members, IEEE today serves over 400,000 members worldwide. Not only is IEEE the world’s largest technical and professional society, it also publishes a significant amount of the electrical engineering and computer science literature in the world.</p>
 
 <h3>IEEE SUTD Student Branch</h3>
 
@@ -37,7 +37,7 @@ The shift from Facebook Pages to GitHub Pages is due to 2 factors, namely:
 
 * For members who are renewing their membership again, follow these [instructions](https://drive.google.com/file/d/1bp1Ot3N9lfKmNiJDCtYN81tEOGPPe_8n/view).
 
-* For all, make sure to submit the Google form to obtain your partial membership cost refund!
+* For all, make sure to submit the [form](https://docs.google.com/forms/d/e/1FAIpQLScWmSyP470AvRI0nrujAb-2F_IZfXZ6XIQWSagS04RXZtObCA/viewform) to obtain your partial membership cost refund!
 
 ## Licenses
 * HTML, CSS: Verti by [HTML5 UP](html5up.net)
