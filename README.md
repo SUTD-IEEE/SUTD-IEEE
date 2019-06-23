@@ -1,6 +1,7 @@
+&nbsp;
 <p align="center"><a href ="https://sutd-ieee.github.io/"><img src="https://raw.githubusercontent.com/SUTD-IEEE/SUTD-IEEE.github.io/master/images/IEEE_at_SUTD.png" alt="IEEE@SUTD logo"/></a></p>
-
-The official home page of IEEE SUTD Student Branch, built using HTML5 Up's [Verti](https://html5up.net/verti).
+<br>
+<p align="center">The official home page of IEEE SUTD Student Branch, built using HTML5 Up's <a href ="https://html5up.net/verti" alt=""/>Verti</a>.</p>
 
 ## Why? [![start with why](https://img.shields.io/badge/start%20with-why%3F-brightgreen.svg?style=flat)](http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
 
