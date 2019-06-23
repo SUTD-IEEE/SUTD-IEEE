@@ -20,14 +20,14 @@ The shift from Facebook Pages to GitHub Pages is due to 2 factors, namely:
 
 <h3>IEEE</h3>
                                     
-<center><a href ="https://www.ieee.org/"><img src="https://raw.githubusercontent.com/SUTD-IEEE/SUTD-IEEE.github.io/master/images/ieee_tag_blue.jpg" alt="IEEE logo" height=169px/></a></center>
-<br>
+<p align="center"><a href ="https://www.ieee.org/"><img src="https://raw.githubusercontent.com/SUTD-IEEE/SUTD-IEEE.github.io/master/images/ieee_tag_blue.jpg" alt="IEEE logo" height=169px/></a></p>
+
 <p>IEEE is the world’s largest technical professional organization dedicated to advancing technology for the benefit of humanity. Founded in 1884 with Alexander Graham Bell and Thomas Edison among its charter members, IEEE today serves over 400,000 members worldwide. Not only is IEEE the world’s largest technical and professional society, it also publishes a significant amount of the electrical engineering and computer-science literature in the world.</p>
 
 <h3>IEEE SUTD Student Branch</h3>
 
-<center><a href ="https://sutd-ieee.github.io/"><img src="https://raw.githubusercontent.com/SUTD-IEEE/SUTD-IEEE.github.io/master/images/IEEE_SUTD_logo.png" alt="IEEE SUTD Student Branch logo" height=200px/></a></center>
-<br>
+<p align="center"><a href ="https://sutd-ieee.github.io/"><img src="https://raw.githubusercontent.com/SUTD-IEEE/SUTD-IEEE.github.io/master/images/IEEE_SUTD_logo.png" alt="IEEE SUTD Student Branch logo" height=200px/></a></p>
+
 <p>Established in 2014, IEEE SUTD Student Branch is the newest Student Branch under the IEEE Singapore Section. We conduct regular internal and external workshops including PCB design, Ardunio and Kivy workshops. Through LITE and Self-Initiated Projects, we offer our members the opportunity to learn additional knowledge outside the curriculum with financial sponsorship. We also provide our members with access to our internal inventory through our Loaning System.</p>
 
 ## How To Join/Renew?
