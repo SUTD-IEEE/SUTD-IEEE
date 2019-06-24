@@ -31,7 +31,7 @@ The shift from Facebook Pages to GitHub Pages is due to 2 factors, namely:
 
 <p>Established in 2014, IEEE SUTD Student Branch is the newest Student Branch under the IEEE Singapore Section. We conduct regular internal and external workshops including PCB design, Ardunio and Kivy workshops. Through LITE and Self-Initiated Projects, we offer our members the opportunity to learn additional knowledge outside the curriculum with financial sponsorship. We also provide our members with access to our internal inventory through our Loaning System.</p>
 
-## How To Join/Renew?
+## 💡 How To Join/Renew?
 
 * For new members, follow these [instructions](https://drive.google.com/file/d/1G62pv6kEH3oyEwuoAT_fqV-kP3P0uZ3A/view). 
 
@@ -39,7 +39,14 @@ The shift from Facebook Pages to GitHub Pages is due to 2 factors, namely:
 
 * For all, make sure to submit the [form](https://docs.google.com/forms/d/e/1FAIpQLScWmSyP470AvRI0nrujAb-2F_IZfXZ6XIQWSagS04RXZtObCA/viewform) to obtain your partial membership cost refund!
 
-## Licenses
+## Author
+👤 **Wei Min Cher**
+* GitHub: [@flamanta](https://github.com/flamanta)
+
+## Show your support
+Please ⭐️ this repository if this project helped you!
+
+## 📝 Licenses
 * HTML, CSS: Verti by [HTML5 UP](html5up.net)
 
     Free for personal and commercial use under the [CCA 3.0 license](html5up.net/license).
