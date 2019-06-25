@@ -56,5 +56,5 @@ Please ⭐️ this repository if this project helped you!
 
 * Images: [Unsplash](https://unsplash.com)
 * Icons: [Font Awesome](https://fontawesome.com)
-* [jQuery]([jquery.com](https://jquery.com/))
+* [jQuery](https://jquery.com/)
 * [Responsive Tools](github.com/ajlkn/responsive-tools)
