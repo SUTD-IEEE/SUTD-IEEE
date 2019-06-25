@@ -29,9 +29,9 @@ The shift from Facebook Pages to GitHub Pages is due to 2 factors, namely:
 
 <p align="center"><a href ="https://sutd-ieee.github.io/"><img src="https://raw.githubusercontent.com/SUTD-IEEE/SUTD-IEEE.github.io/master/images/IEEE_SUTD_logo.png" alt="IEEE SUTD Student Branch logo" height=200px/></a></p>
 
-<p>Established in 2014, IEEE SUTD Student Branch is the newest Student Branch under the IEEE Singapore Section. We conduct regular internal and external workshops including PCB design, Ardunio and Kivy workshops. Through LITE and Self-Initiated Projects, we offer our members the opportunity to learn additional knowledge outside the curriculum with financial sponsorship. We also provide our members with access to our internal inventory through our Loaning System.</p>
+<p>Established in 2014, IEEE SUTD Student Branch is the newest Student Branch under the IEEE Singapore Section. We conduct regular internal and external workshops including PCB design, Arduino and Kivy workshops. Through LITE and Self-Initiated Projects, we offer our members the opportunity to learn additional knowledge outside the curriculum with financial sponsorship. We also provide our members with access to our internal inventory through our Loaning System.</p>
 
-## 💡 How To Join/Renew?
+## 💡 How to Join/Renew?
 
 * For new members, follow these [instructions](https://drive.google.com/file/d/1G62pv6kEH3oyEwuoAT_fqV-kP3P0uZ3A/view). 
 
@@ -43,7 +43,7 @@ The shift from Facebook Pages to GitHub Pages is due to 2 factors, namely:
 👤 **Wei Min Cher**
 * GitHub: [@flamanta](https://github.com/flamanta)
 
-## Show your support
+## Show Your Support
 Please ⭐️ this repository if this project helped you!
 
 ## 📝 Licenses
