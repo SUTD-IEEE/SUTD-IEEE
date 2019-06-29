@@ -1,21 +1,42 @@
 &nbsp;
+
 <p align="center"><a href ="https://sutd-ieee.github.io/"><img src="https://raw.githubusercontent.com/SUTD-IEEE/SUTD-IEEE.github.io/master/images/IEEE_at_SUTD.png" alt="IEEE@SUTD logo"/></a></p>
-<br>
-<p align="center">The official home page of IEEE SUTD Student Branch, built using HTML5 Up's <a href ="https://html5up.net/verti" alt=""/>Verti</a>.</p>
+
+<h3 align="center">IEEE — here at SUTD.</h3>
+
+<p align="center">We are dedicated to advancing technology for the benefit of humanity.</p>
+
+<hr>
+
+<p align="center">
+    <a href="https://www.ieee.org/">IEEE</a> |
+    <a href="https://sutd-ieee.github.io/about.html">IEEE@SUTD</a> |
+    <a href="https://drive.google.com/file/d/1G62pv6kEH3oyEwuoAT_fqV-kP3P0uZ3A/view">Join Us</a> |
+    <a href="https://drive.google.com/file/d/1bp1Ot3N9lfKmNiJDCtYN81tEOGPPe_8n/view">Renewals</a> |
+    <a href="https://ieeesutdweb.herokuapp.com/">Loaning System</a> |
+    <a href="https://sutd-ieee.github.io/contact.html">Contact</a>
+    <br><br>
+    <a href="https://github.com/prettier/prettier">
+        <img src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg" alt="code style: prettier" />
+    </a>
+
+</p>
+
+<hr>
 
 ## Why? [![start with why](https://img.shields.io/badge/start%20with-why%3F-brightgreen.svg?style=flat)](http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
 
-For quite some time since 2018, our Executive Committee has be planning for a new home page to replace the inactive IEEE SUTD Student Branch page on [Facebook](https://www.facebook.com/SUTDIEEE/). 
+For quite some time since 2018, our Executive Committee has be planning for a new home page to replace the inactive IEEE SUTD Student Branch page on [Facebook](https://www.facebook.com/SUTDIEEE/).
 
 The shift from Facebook Pages to GitHub Pages is due to 2 factors, namely:
 
 1. Decrease in usage of Facebook by our peers
 
-    * The major social networking service used among peers our age is Instagram, not Facebook.
+   - The major social networking service used among peers our age is Instagram, not Facebook.
 
 2. Shift in communication methods
 
-    * With the advent of instant messaging services such as Telegram, communicating via these platforms would allow for faster interactions. This is seen increasingly as an advantage, given the packed schedules of our peers.
+   - With the advent of instant messaging services such as Telegram, communicating via these platforms would allow for faster interactions. This is seen increasingly as an advantage, given the packed schedules of our peers.
 
 ## What?
 
@@ -33,28 +54,32 @@ The shift from Facebook Pages to GitHub Pages is due to 2 factors, namely:
 
 ## 💡 How to Join/Renew?
 
-* For new members, follow these [instructions](https://drive.google.com/file/d/1G62pv6kEH3oyEwuoAT_fqV-kP3P0uZ3A/view). 
+- For new members, follow these [instructions](https://drive.google.com/file/d/1G62pv6kEH3oyEwuoAT_fqV-kP3P0uZ3A/view).
 
-* For members who are renewing their membership again, follow these [instructions](https://drive.google.com/file/d/1bp1Ot3N9lfKmNiJDCtYN81tEOGPPe_8n/view).
+- For members who are renewing their membership again, follow these [instructions](https://drive.google.com/file/d/1bp1Ot3N9lfKmNiJDCtYN81tEOGPPe_8n/view).
 
-* For all, make sure to submit the [form](https://docs.google.com/forms/d/e/1FAIpQLScWmSyP470AvRI0nrujAb-2F_IZfXZ6XIQWSagS04RXZtObCA/viewform) to obtain your partial membership cost refund!
+- For all, make sure to submit the [form](https://docs.google.com/forms/d/e/1FAIpQLScWmSyP470AvRI0nrujAb-2F_IZfXZ6XIQWSagS04RXZtObCA/viewform) to obtain your partial membership cost refund!
 
 ## Author
+
 👤 **Wei Min Cher**
-* GitHub: [@flamanta](https://github.com/flamanta)
+
+- GitHub: [@flamanta](https://github.com/flamanta)
 
 ## Show Your Support
+
 Please ⭐️ this repository if this project helped you!
 
 ## 📝 Licenses
-* HTML, CSS: Verti by [HTML5 UP](html5up.net)
 
-    Free for personal and commercial use under the [CCA 3.0 license](html5up.net/license).
+- HTML, CSS: Verti by [HTML5 UP](html5up.net)
 
-    A super simple + modern responsive website template. Took a slightly different direction
-    on the mobile version's slide out nav (floating button versus a full on titlebar).
+  Free for personal and commercial use under the [CCA 3.0 license](html5up.net/license).
 
-* Images: [Unsplash](https://unsplash.com)
-* Icons: [Font Awesome](https://fontawesome.com)
-* [jQuery](https://jquery.com/)
-* [Responsive Tools](github.com/ajlkn/responsive-tools)
+  A super simple + modern responsive website template. Took a slightly different direction
+  on the mobile version's slide out nav (floating button versus a full on titlebar).
+
+- Images: [Unsplash](https://unsplash.com)
+- Icons: [Font Awesome](https://fontawesome.com)
+- [jQuery](https://jquery.com/)
+- [Responsive Tools](github.com/ajlkn/responsive-tools)
