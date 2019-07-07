@@ -70,16 +70,8 @@ The shift from Facebook Pages to GitHub Pages is due to 2 factors, namely:
 
 Please ⭐️ this repository if this project helped you!
 
-## 📝 Licenses
+## 📝 Open Source Licenses
 
-- HTML, CSS: Verti by [HTML5 UP](html5up.net)
-
-  Free for personal and commercial use under the [CCA 3.0 license](html5up.net/license).
-
-  A super simple + modern responsive website template. Took a slightly different direction
-  on the mobile version's slide out nav (floating button versus a full on titlebar).
-
-- Images: [Unsplash](https://unsplash.com)
-- Icons: [Font Awesome](https://fontawesome.com)
-- [jQuery](https://jquery.com/)
-- [Responsive Tools](github.com/ajlkn/responsive-tools)
+- HTML, CSS: Verti by [HTML5 UP](html5up.net/license)
+- Images: [Unsplash](https://unsplash.com/license)
+- Icons: [Font Awesome](https://fontawesome.com/license)
