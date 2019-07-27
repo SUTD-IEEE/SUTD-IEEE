@@ -19,14 +19,24 @@
     <a href="https://github.com/prettier/prettier">
         <img src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg" alt="code style: prettier" />
     </a>
-
 </p>
+
+&nbsp;
+
+<br>
+<p align='center'>
+        <img src="https://raw.githubusercontent.com/SUTD-IEEE/SUTD-IEEE.github.io/master/images/SUTD-IEEE.jpg" height="500" />
+</p>
+
+<br>
+
+&nbsp;
 
 <hr>
 
 ## Why? [![start with why](https://img.shields.io/badge/start%20with-why%3F-brightgreen.svg?style=flat)](http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
 
-For quite some time since 2018, our Executive Committee has be planning for a new home page to replace the inactive IEEE SUTD Student Branch page on [Facebook](https://www.facebook.com/SUTDIEEE/).
+For quite some time since 2018, our Executive Committee have had been planning for a new home page to replace the inactive IEEE SUTD Student Branch page on [Facebook](https://www.facebook.com/SUTDIEEE/).
 
 The shift from Facebook Pages to GitHub Pages is due to 2 factors, namely:
 
@@ -37,6 +47,10 @@ The shift from Facebook Pages to GitHub Pages is due to 2 factors, namely:
 2. Shift in communication methods
 
    - With the advent of instant messaging services such as Telegram, communicating via these platforms would allow for faster interactions. This is seen increasingly as an advantage, given the packed schedules of our peers.
+
+Another goal of this new home page is to act as a landing page for potential IEEE student branch members to find out more about the weekly activities being held.
+
+In addition to the new home page, IEEE student members of our student branch now have the added benefit of gaining access to a new internal inventory loaning system where they can loan out equipment from the student branch. The new inventory loaning system has been implemented by our President, Yuxuan Li ([@xmliszt](https://github.com/xmliszt)) on Heroku.
 
 ## What?
 
