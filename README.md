@@ -25,7 +25,7 @@
 
 <br>
 <p align='center'>
-        <img src="https://raw.githubusercontent.com/SUTD-IEEE/SUTD-IEEE.github.io/master/images/SUTD-IEEE.jpg" height="500" />
+        <img src="https://raw.githubusercontent.com/SUTD-IEEE/SUTD-IEEE.github.io/master/images/SUTD-IEEE.png" height="500" />
 </p>
 
 <br>
