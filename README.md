@@ -10,11 +10,11 @@
 
 <p align="center">
     <a href="https://www.ieee.org/">IEEE</a> |
-    <a href="https://sutd-ieee.github.io/about.html">IEEE@SUTD</a> |
+    <a href="https://sutd-ieee.github.io/about/">IEEE@SUTD</a> |
     <a href="https://drive.google.com/file/d/1G62pv6kEH3oyEwuoAT_fqV-kP3P0uZ3A/view">Join Us</a> |
     <a href="https://drive.google.com/file/d/1bp1Ot3N9lfKmNiJDCtYN81tEOGPPe_8n/view">Renewals</a> |
     <a href="https://ieeesutdweb.herokuapp.com/">Loaning System</a> |
-    <a href="https://sutd-ieee.github.io/contact.html">Contact</a>
+    <a href="https://sutd-ieee.github.io/contact/">Contact</a>
     <br><br>
     <a href="https://github.com/prettier/prettier">
         <img src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg" alt="code style: prettier" />
@@ -51,6 +51,8 @@ The shift from Facebook Pages to GitHub Pages is due to 2 factors, namely:
 Another goal of this new home page is to act as a landing page for potential IEEE student branch members to find out more about the weekly activities being held.
 
 In addition to the new home page, IEEE student members of our student branch now have the added benefit of gaining access to a new internal inventory loaning system where they can loan out equipment from the student branch. The new inventory loaning system has been implemented by our President, Yuxuan Li ([@xmliszt](https://github.com/xmliszt)) on Heroku.
+
+A lot of care has been made by me to ensure that the website follows principles of [responsive web design](https://en.wikipedia.org/wiki/Responsive_web_design). In my opinion, it is the front-end web designer who should design a responsive web page, not instruct the users to access the web page with a certain hardware setup in order to get the best web experience.
 
 ## What?
 
