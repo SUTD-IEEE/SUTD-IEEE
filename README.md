@@ -54,7 +54,7 @@ In addition to the new home page, IEEE student members of our student branch now
 
 A lot of care has been made by me to ensure that the website follows principles of [responsive web design](https://en.wikipedia.org/wiki/Responsive_web_design). In my opinion, it is the front-end web designer who should design a responsive web page, not instruct the users to access the web page with a certain hardware setup in order to get the best web experience.
 
-## What?
+## What is IEEE SUTD Student Branch?
 
 <h3>IEEE</h3>
                                     
@@ -66,7 +66,7 @@ A lot of care has been made by me to ensure that the website follows principles 
 
 <p align="center"><a href ="https://sutd-ieee.github.io/"><img src="https://raw.githubusercontent.com/SUTD-IEEE/SUTD-IEEE.github.io/master/images/IEEE_SUTD_logo.png" alt="IEEE SUTD Student Branch logo" height=200px/></a></p>
 
-<p>Established in 2014, IEEE SUTD Student Branch is the newest Student Branch under the IEEE Singapore Section. We conduct regular internal and external workshops including PCB design, Arduino and Kivy workshops. Through LITE and Self-Initiated Projects, we offer our members the opportunity to learn additional knowledge outside the curriculum with financial sponsorship. We also provide our members with access to our internal inventory through our Loaning System.</p>
+<p>Established in 2014, IEEE SUTD Student Branch is the newest Student Branch under the IEEE Singapore Section, from the Singapore University of Technology and Design (SUTD). We conduct regular internal and external workshops including PCB design, Arduino and Kivy workshops. Through LITE and Self-Initiated Projects, we offer our members the opportunity to learn additional knowledge outside the curriculum with financial sponsorship. We also provide our members with access to our internal inventory through our Loaning System.</p>
 
 ## 💡 How to Join/Renew?
 
