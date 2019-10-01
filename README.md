@@ -64,7 +64,7 @@ A lot of care has been made by me to ensure that the website follows principles 
 
 <h3>IEEE SUTD Student Branch</h3>
 
-<p align="center"><a href ="https://ieee.opensutd.orgs/"><img src="https://raw.githubusercontent.com/SUTD-IEEE/SUTD-IEEE.github.io/master/images/IEEE_SUTD_logo.png" alt="IEEE SUTD Student Branch logo" height=200px/></a></p>
+<p align="center"><a href ="https://ieee.opensutd.org/"><img src="https://raw.githubusercontent.com/SUTD-IEEE/SUTD-IEEE.github.io/master/images/IEEE_SUTD_logo.png" alt="IEEE SUTD Student Branch logo" height=200px/></a></p>
 
 <p>Established in 2014, IEEE SUTD Student Branch is the newest Student Branch under the IEEE Singapore Section, from the Singapore University of Technology and Design (SUTD). We conduct regular internal and external workshops including PCB design, Arduino and Kivy workshops. Through LITE and Self-Initiated Projects, we offer our members the opportunity to learn additional knowledge outside the curriculum with financial sponsorship. We also provide our members with access to our internal inventory through our Loaning System.</p>
 
