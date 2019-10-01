@@ -76,13 +76,9 @@ A lot of care has been made by me to ensure that the website follows principles 
 
 - For all, make sure to submit the [form](https://docs.google.com/forms/d/e/1FAIpQLScWmSyP470AvRI0nrujAb-2F_IZfXZ6XIQWSagS04RXZtObCA/viewform) to obtain your partial membership cost refund!
 
-## Author
+## Another project by...
 
-👤 **Wei Min Cher**
-
-- GitHub: [@flamanta](https://github.com/flamanta)
-
-## Show Your Support
+👤 Wei Min Cher [@flamanta](https://github.com/flamanta)
 
 Please ⭐️ this repository if this project helped you!
 
