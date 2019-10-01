@@ -1,6 +1,6 @@
 &nbsp;
 
-<p align="center"><a href ="https://sutd-ieee.github.io/"><img src="https://raw.githubusercontent.com/SUTD-IEEE/SUTD-IEEE.github.io/master/images/IEEE_at_SUTD.png" alt="IEEE@SUTD logo"/></a></p>
+<p align="center"><a href ="https://ieee.opensutd.org/"><img src="https://raw.githubusercontent.com/SUTD-IEEE/SUTD-IEEE.github.io/master/images/IEEE_at_SUTD.png" alt="IEEE@SUTD logo"/></a></p>
 
 <h3 align="center">IEEE — here at SUTD.</h3>
 
@@ -10,11 +10,11 @@
 
 <p align="center">
     <a href="https://www.ieee.org/">IEEE</a> |
-    <a href="https://sutd-ieee.github.io/about/">IEEE@SUTD</a> |
+    <a href="https://ieee.opensutd.org/about/">IEEE@SUTD</a> |
     <a href="https://drive.google.com/file/d/1G62pv6kEH3oyEwuoAT_fqV-kP3P0uZ3A/view">Join Us</a> |
     <a href="https://drive.google.com/file/d/1bp1Ot3N9lfKmNiJDCtYN81tEOGPPe_8n/view">Renewals</a> |
     <a href="https://ieeesutdweb.herokuapp.com/">Loaning System</a> |
-    <a href="https://sutd-ieee.github.io/contact/">Contact</a>
+    <a href="https://ieee.opensutd.org/contact/">Contact</a>
     <br><br>
     <a href="https://github.com/prettier/prettier">
         <img src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg" alt="code style: prettier" />
@@ -64,7 +64,7 @@ A lot of care has been made by me to ensure that the website follows principles 
 
 <h3>IEEE SUTD Student Branch</h3>
 
-<p align="center"><a href ="https://sutd-ieee.github.io/"><img src="https://raw.githubusercontent.com/SUTD-IEEE/SUTD-IEEE.github.io/master/images/IEEE_SUTD_logo.png" alt="IEEE SUTD Student Branch logo" height=200px/></a></p>
+<p align="center"><a href ="https://ieee.opensutd.orgs/"><img src="https://raw.githubusercontent.com/SUTD-IEEE/SUTD-IEEE.github.io/master/images/IEEE_SUTD_logo.png" alt="IEEE SUTD Student Branch logo" height=200px/></a></p>
 
 <p>Established in 2014, IEEE SUTD Student Branch is the newest Student Branch under the IEEE Singapore Section, from the Singapore University of Technology and Design (SUTD). We conduct regular internal and external workshops including PCB design, Arduino and Kivy workshops. Through LITE and Self-Initiated Projects, we offer our members the opportunity to learn additional knowledge outside the curriculum with financial sponsorship. We also provide our members with access to our internal inventory through our Loaning System.</p>
 
