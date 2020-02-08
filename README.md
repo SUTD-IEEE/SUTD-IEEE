@@ -10,7 +10,7 @@
 
 <p align="center">
     <a href="https://www.ieee.org/">IEEE</a> |
-    <a href="https://ieee.opensutd.org/about/">IEEE@SUTD</a> |
+    <a href="https://ieee.opensutd.org/about/">About Us</a> |
     <a href="https://drive.google.com/file/d/1G62pv6kEH3oyEwuoAT_fqV-kP3P0uZ3A/view">Join Us</a> |
     <a href="https://drive.google.com/file/d/1bp1Ot3N9lfKmNiJDCtYN81tEOGPPe_8n/view">Renewals</a> |
     <a href="https://ieeesutdweb.herokuapp.com/">Loaning System</a> |
