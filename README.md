@@ -36,23 +36,9 @@
 
 ## Why? [![start with why](https://img.shields.io/badge/start%20with-why%3F-brightgreen.svg?style=flat)](http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
 
-For quite some time since 2018, our Executive Committee have had been planning for a new home page to replace the inactive IEEE SUTD Student Branch page on [Facebook](https://www.facebook.com/SUTDIEEE/).
+We need a landing page for potential IEEE student branch members to find out more about the weekly activities being held.
 
-The shift from Facebook Pages to GitHub Pages is due to 2 factors, namely:
-
-1. Decrease in usage of Facebook by our peers
-
-   - The major social networking service used among peers our age is Instagram, not Facebook.
-
-2. Shift in communication methods
-
-   - With the advent of instant messaging services such as Telegram, communicating via these platforms would allow for faster interactions. This is seen increasingly as an advantage, given the packed schedules of our peers.
-
-Another goal of this new home page is to act as a landing page for potential IEEE student branch members to find out more about the weekly activities being held.
-
-In addition to the new home page, IEEE student members of our student branch now have the added benefit of gaining access to a new internal inventory loaning system where they can loan out equipment from the student branch. The new inventory loaning system has been implemented by our President, Yuxuan Li ([@xmliszt](https://github.com/xmliszt)) on Heroku.
-
-A lot of care has been made by me to ensure that the website follows principles of [responsive web design](https://en.wikipedia.org/wiki/Responsive_web_design). In my opinion, it is the front-end web designer who should design a responsive web page, not instruct the users to access the web page with a certain hardware setup in order to get the best web experience.
+Members can also access the internal inventory loaning system where to loan out equipment from the student branch. The new inventory loaning system has been implemented by our President, Yuxuan Li ([@xmliszt](https://github.com/xmliszt)) on Heroku.
 
 ## What is IEEE SUTD Student Branch?
 
